@@ -19,4 +19,4 @@ def power_iteration(A, num_simulations: int):
     return b_k
 A = np.array([[2,2,764,1],[3,2,2,2],[54,2,87,3],[3,90,1,4]])
 power_iteration(A,10)
-#comment
+#commentooops made changes
